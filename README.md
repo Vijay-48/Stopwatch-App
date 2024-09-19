@@ -11,7 +11,7 @@ A simple stopwatch app built using Python and Tkinter.
 
 To run the app, simply clone this repository and run the `stopwatch.py` file using Python:
 
-git clone https:https://github.com/Vijay-48/PRODIGY_AD_03.git
+git clone https: https://github.com/Vijay-48/Stopwatch-App.git
 cd stopwatch-app
 python StopWatch.py
 
